@@ -1,0 +1,12 @@
+pytorch-lightning
+torchvision 
+matplotlib 
+seaborn 
+numpy
+lightning[extra]
+plotly 
+nbformat
+torch
+pandas
+torchmetrics
+scikit-learn 
